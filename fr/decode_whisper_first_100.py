@@ -38,6 +38,3 @@ for i in range(100):
 # WER 
 
 
-average_wer = sum(wer_scores) / len(wer_scores) #?
-print(f"\nWER pour les 100 premiers fichiers: {average_wer:.2f}")
-
